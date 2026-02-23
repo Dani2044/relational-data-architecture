@@ -4,14 +4,14 @@ A comprehensive engineering portfolio showcasing advanced relational database de
 
 ## 📑 Table of Contents
 
-* [Portfolio Overview](https://www.google.com/search?q=%23portfolio-overview)
-* [Project 1: Relational Schema Logic](https://www.google.com/search?q=%23project-1-relational-schema-logic)
-* [Project 2: Enterprise Data Modeling](https://www.google.com/search?q=%23project-2-enterprise-data-modeling)
-* [Project 3: Advanced Query Optimization](https://www.google.com/search?q=%23project-3-advanced-query-optimization)
-* [Technical Stack](https://www.google.com/search?q=%23technical-stack)
-* [Project Structure](https://www.google.com/search?q=%23project-structure)
-* [Development Team](https://www.google.com/search?q=%23development-team)
-* [License](https://www.google.com/search?q=%23license)
+* [Portfolio Overview](#portfolio-overview)
+* [Project 1: Relational Schema Logic](#project-1-relational-schema-logic)
+* [Project 2: Enterprise Data Modeling](#project-2-enterprise-data-modeling)
+* [Project 3: Advanced Query Optimization](#project-3-advanced-query-optimization)
+* [Technical Stack](#technical-stack)
+* [Project Structure](#project-structure)
+* [Development Team](#development-team)
+* [License](#license)
 
 ---
 
